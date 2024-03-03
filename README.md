@@ -1,8 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,2,2,3&height=180&section=header&text=capsule%20render&fontSize=90)
-
-<div >               
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,2,2,3&height=180&section=header&text=Hello%20I'm%20HyunJoon%20Kim!%20&&animation=fadeIn&fontSize=40&fontAlign=30&fontAlignY=40)
+<div align="left">               
   <img src="https://github.com/hjkim4500/hjkim4500/assets/83331110/beac1994-5fb1-4c30-a9e8-5a08aa8fc4da" width="250"/>
-  <p style="color:red;">안녕하세요. 프론트앤드 개발자 김현준입니다.</p>
+  <p>안녕하세요! 꾸준히 성장하고 싶은 프론트앤드 개발자 김현준입니다.</p>
 </div>
 <h2>My Tech Stack 📚 </h2>
 <div>
