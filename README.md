@@ -7,7 +7,13 @@
   <p>안녕하세요! 꾸준히 성장하고 싶은 프론트앤드 개발자 김현준입니다.</p>
   <p>잘하는 부분은 더 잘하게, 못하는 부분은 한 걸음씩 채워가도록 노력중입니다.</p>
   <p>항상 발전하는 모습을 보일 수 있도록 하겠습니다!</p>
-  <h5>🔥 Social Network 🔥</h5>
+  <p>매일 매일 깃헙에 Push하도록 노력하고 있습니다.</p>
+  <h4>💻 Now Studying... 💻</h4>
+  <p>TypeScript</p>
+  <p>HTML5 Canvas</p>
+  <p><a href="https://school.programmers.co.kr/learn/challenges?order=acceptance_desc&levels=0%2C1&languages=javascript">프로그래머스 스쿨 자바스크립트 코딩 테스트</a></p>
+  
+  <h4>🔥 Social Network 🔥</h4>
   <a href="mailto:hjkim4500@naver.com"><img src="https://img.shields.io/badge/hjkim4500@naver.com-%D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hjkim4500@naver.com"/></a>
   <a href="https://www.instagram.com/kimmy_jun_1122"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/kimmy_jun_1122"/></a>
 </div>
